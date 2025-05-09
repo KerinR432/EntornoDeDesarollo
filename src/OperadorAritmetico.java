@@ -1,4 +1,4 @@
-package test;
+package src;
 
 public class OperadorAritmetico {
     public static int suma(int a, int b) {
