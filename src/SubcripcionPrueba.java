@@ -1,3 +1,5 @@
+package src;
+
 public class SubcripcionPrueba {
     public static void main(String[] args) {
         Subscripcion n1 = new Subscripcion(30,10);
